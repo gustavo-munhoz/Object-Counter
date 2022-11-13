@@ -12,6 +12,7 @@ Example of execution in cmd:
 
 input: ObjectCounter.exe 01.ppm 1
 output: 
+
 ................................
 
 ................................
